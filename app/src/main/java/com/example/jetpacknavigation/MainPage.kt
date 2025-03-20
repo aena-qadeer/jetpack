@@ -275,6 +275,7 @@ fun ChildRow(data: String, onButtonClick: () -> Unit) {
 fun GreetingPreview() {
     JetpackNavigationTheme {
         //MainPage()
+
         //MyLazyColumn()
        // MyLazyRow()
        // MyLazyVerticalGrid()
